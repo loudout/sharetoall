@@ -1,3 +1,0 @@
-document.write('<a href="https://at.atwola.com/?adlink/5113/3549566/0/3060/AdId=8652702;BnId=2;itime=869817636;kp=1253057;impref=1473869817369772861;imprefseq=100770429932767736;imprefts=1473869817;" target="_blank"><img src="https://aka-cdn.adtechus.com/images/466/Ad0St1Sz3060Sq0V1Id25458642.jpg" border="0" alt="Advertisement" width="1200" height="800"/></a>');
- var adcount_3549566_1_=new Image();
-adcount_3549566_1_.src="https://at.atwola.com/adcount/3.0/5113/3549566/0/3060/AdId=8652702;BnId=2;ct=250217887;st=9501;adcid=1;itime=869817636;reqtype=5;;impref=1473869817369772861;imprefseq=100770429932767736;imprefts=1473869817;kp=1253057;"; 
